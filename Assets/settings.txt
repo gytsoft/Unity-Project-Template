@@ -1,0 +1,1 @@
+{"version":"0.1", "bundle_version_code":"1", "build_version":"1", "package_name":"com.hifivegames.githubtestlab", "path":"/Users/ec2-user/desktop/projects/GithubTestLab_built", "name":"GithubTestLab"}
